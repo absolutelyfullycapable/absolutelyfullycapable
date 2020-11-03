@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm 
+🌱 I’m currently learning HTML5, CSS3, Javascript, jQuery, and more!
+📫 How to reach me: lovinsurfaces@gmail.com
+
+[![my github stats](https://github-readme-stats.vercel.app/api?username=absolutelyfullycapable)](https://github.com/anuraghazra/github-readme-stats)  
+
 <!--
 **absolutelyfullycapable/absolutelyfullycapable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
