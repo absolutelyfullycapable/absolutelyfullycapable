@@ -5,6 +5,6 @@
 I am **a creative web designer and web publisher** who loves what I do from South Korea.
 - 📃 I am currently learning HTML5, CSS3, Javascript, jQuery, and more!
 - ✉ How to reach me: lovinsurfaces@gmail.com
-- 🖱 My portfolio is [here!](https://absolutelyfullycapable.github.io/portfolio)
+- 🖱 My portfolio is [here](https://absolutelyfullycapable.github.io/portfolio)!
 
 [![my github stats](https://github-readme-stats.vercel.app/api?username=absolutelyfullycapable&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
