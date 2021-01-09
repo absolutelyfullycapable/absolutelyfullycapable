@@ -25,7 +25,7 @@
  
  <br>
  
-✉ How to reach me: lovinsurfaces@gmail.com
-🖱 My portfolio is [here](https://absolutelyfullycapable.github.io/portfolio)!
+- ✉ How to reach me: lovinsurfaces@gmail.com
+- 🖱 My portfolio is [here](https://absolutelyfullycapable.github.io/portfolio)!
 
 [![my github stats](https://github-readme-stats.vercel.app/api?username=absolutelyfullycapable&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
