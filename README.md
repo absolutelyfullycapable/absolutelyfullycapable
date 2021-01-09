@@ -28,6 +28,4 @@
 - ✉ How to reach me: lovinsurfaces@gmail.com
 - 🖱 My portfolio is [here](https://absolutelyfullycapable.github.io/portfolio)!
 
-<p align="center">
 [![my github stats](https://github-readme-stats.vercel.app/api?username=absolutelyfullycapable&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-</p>
