@@ -1,8 +1,8 @@
 <p align="center">
-<a href="https://hits.seeyoufarm.com" align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabsolutelyfullycapable%2Fhit-counter&count_bg=%23F1F1F1&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
- </p>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabsolutelyfullycapable%2Fhit-counter&count_bg=%23EFEFEF&title_bg=%23FFCFCF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
+</p>
 
-### <h3 align="center">Hi there! 🤍</h3>
+<h3 align="center">Hi there! 🤍</h3>
 
 <p align="center">I am a creative web publisher and web designer who loves what I do.</p>
 
@@ -39,6 +39,6 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=absolutelyfullycapable&theme=graywhite&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=absolutelyfullycapable&theme=graywhite&show_icons=true&include_all_commits=true&hide_border=true">
 </a>
 </p>
