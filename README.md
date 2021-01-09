@@ -27,9 +27,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="25" />  
 </div>
 
-</td><td valign="top" width="50%">
- 
- </td></tr></table>  
+</td>
  
  <br>
  
