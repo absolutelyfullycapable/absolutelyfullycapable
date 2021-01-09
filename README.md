@@ -4,6 +4,8 @@
 
 <div align="center">I am I am a creative web publisher and web designer who loves what I do.</div>
 
+<table><tr><td valign="top" width="33%">
+
 ### <div align="center">🖥 Publishing</div>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
@@ -26,6 +28,8 @@
 </div>
 
 </td><td valign="top" width="50%">
+ 
+ </td></tr></table>  
  
  <br>
  
