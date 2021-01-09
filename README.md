@@ -2,7 +2,7 @@
 <a href="https://hits.seeyoufarm.com" align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabsolutelyfullycapable%2Fhit-counter&count_bg=%23F1F1F1&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
  </p>
 
-### <p align="center">Hi there! 🤍</p>
+### <h3 align="center">Hi there! 🤍</h3>
 
 <p align="center">I am I am a creative web publisher and web designer who loves what I do.</p>
 
@@ -27,7 +27,13 @@
  
  <br>
 
-- ✉ How to reach me: lovinsurfaces@gmail.com
-- 🖱 My portfolio is [here](https://absolutelyfullycapable.github.io/portfolio)!
+<p align="center">✉ How to reach me: lovinsurfaces@gmail.com</p>
+<p align="center">🖱 My portfolio is <a href="https://absolutelyfullycapable.github.io/portfolio" target="_blank">here</a>!</p>
 
-[![my github stats](https://github-readme-stats.vercel.app/api?username=absolutelyfullycapable&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=absolutelyfullycapable&theme=graywhite">
+</a>
+ </p>
