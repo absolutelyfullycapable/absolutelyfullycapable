@@ -7,9 +7,9 @@
 <p align="center">I am a creative web publisher and web designer who loves what I do.</p>
 <p align="center"><a href="http://absolutelyfullycapable.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/My Portfolio-ff69b4?style=flat-square"</a></p>
 
-<h4 align="center">My skills 🤸🏻‍♀️</h4>
-
 <br>
+
+<h4 align="center">My skills 🤸🏻‍♀️</h4>
 
 <p align="center">  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -18,8 +18,6 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
 </p>
- 
- <br>
  
 <p align="center">
  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Photoshop&logoColor=white"/></a>
@@ -43,4 +41,4 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=absolutelyfullycapable&theme=graywhite&show_icons=true">
 </a>
- </p>
+</p>
