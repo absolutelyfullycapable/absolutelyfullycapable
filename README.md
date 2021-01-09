@@ -4,7 +4,7 @@
 
 <div align="center">I am I am a creative web publisher and web designer who loves what I do.</div>
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 ### <div align="center">🖥 Publishing</div>
 <div align="center">  
