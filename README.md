@@ -1,6 +1,6 @@
-### <p align="center">Hi there! 🤍</p>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabsolutelyfullycapable%2Fhit-counter&count_bg=%23F3F3F3&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+### <p align="center">Hi there! 🤍</p>
 
 <p align="center">I am I am a creative web publisher and web designer who loves what I do.</p>
 
