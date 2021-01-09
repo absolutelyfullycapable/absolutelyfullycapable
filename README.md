@@ -5,7 +5,6 @@
 ### <h3 align="center">Hi there! 🤍</h3>
 
 <p align="center">I am a creative web publisher and web designer who loves what I do.</p>
-<p align="center"><a href="http://absolutelyfullycapable.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/My Portfolio-ff69b4?style=flat-square"</a></p>
 
 <br>
 
@@ -20,7 +19,7 @@
 </p>
  
 <p align="center">
- <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Photoshop&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Photoshop&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Illustrator&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe XD-FF26BE?style=flat-square&logo=XD&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=PremierePro&logoColor=white"/></a>
@@ -31,8 +30,9 @@
 <h4 align="center">And more 🏃🏻‍♀️</h4>
 
 <p align="center">
-<a href="http://absolutelyfullycapable.github.io" target="_blank"><img src="https://img.shields.io/badge/Github Blog-000000?style=flat-square"</a>
-<a href="mailto:lovinsurfaces@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=lovinsurfaces@gmail.com"</a>
+<p align="center"><a href="http://absolutelyfullycapable.github.io/portfolio"><img src="https://img.shields.io/badge/My Portfolio-ff69b4?style=flat-square"</a>
+<a href="http://absolutelyfullycapable.github.io"><img src="https://img.shields.io/badge/Github Blog-000000?style=flat-square"</a>
+<a href="mailto:lovinsurfaces@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=lovinsurfaces@gmail.com"</a>
 </p>
 
 <br>
