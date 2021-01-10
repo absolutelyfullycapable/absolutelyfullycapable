@@ -30,7 +30,7 @@
 <h4 align="center">And more 🏃🏻‍♀️</h4>
 
 <p align="center">
-<p align="center"><a href="http://absolutelyfullycapable.github.io/portfolio"><img src="https://img.shields.io/badge/My Portfolio-ff69b4?style=flat-square"</a>
+<p align="center"><a href="http://absolutelyfullycapable.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=flat-square"</a>
 <a href="http://absolutelyfullycapable.github.io"><img src="https://img.shields.io/badge/Github Blog-000000?style=flat-square"</a>
 <a href="mailto:lovinsurfaces@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=lovinsurfaces@gmail.com"</a>
 </p>
