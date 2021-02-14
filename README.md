@@ -4,7 +4,7 @@
 
 <h3 align="center">Hi there! 🤍</h3>
 
-<p align="center">I'm Ji Hye who loves what I do.</p>
+<p align="center">I'm Ji Hye who loves what I do and thinks something different.</p>
 
 <br>
 
