@@ -2,13 +2,9 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabsolutelyfullycapable%2Fhit-counter&count_bg=%23EBEBEB&title_bg=%23FF9E9E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 </p>
 
-<h3 align="center">Hi there! 🤍</h3>
-
-<p align="center">I'm Ji Hye who loves what I do and thinks something different.</p>
+<h3 align="center">be ready for whatever comes! 🤍</h3>
 
 <br>
-
-<h4 align="center">My skills 🤸🏻‍♀️</h4>
 
 <p align="center">  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -25,16 +21,6 @@
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=PremierePro&logoColor=white"/></a>
 </p>
  
- <br>
- 
-<h4 align="center">And more 🏃🏻‍♀️</h4>
-
-<p align="center">
-<p align="center"><a href="http://absolutelyfullycapable.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=flat-square"</a>
-<a href="http://absolutelyfullycapable.github.io"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Github&logoColor=white"</a>
-<a href="mailto:lovinsurfaces@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=lovinsurfaces@gmail.com"</a>
-</p>
-
 <br>
 
 <p align="center">
